@@ -67,6 +67,7 @@
     "@babel/plugin-proposal-class-properties": "7.14.5",
     "@babel/preset-react": "^7.24.1",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.5",
+    "@tailwindcss/postcss": "^4.0.8",
     "@tarojs/cli": "4.0.9",
     "@tarojs/taro-loader": "4.0.9",
     "@tarojs/webpack5-runner": "4.0.9",
@@ -78,12 +79,14 @@
     "eslint-config-taro": "4.0.9",
     "eslint-plugin-react": "^7.34.1",
     "eslint-plugin-react-hooks": "^4.4.0",
-    "postcss": "^8.4.38",
+    "postcss": "^8.5.3",
     "react-refresh": "^0.14.0",
     "stylelint": "^16.4.0",
+    "tailwindcss": "^4.0.8",
     "tsconfig-paths-webpack-plugin": "^4.1.0",
     "typescript": "^5.4.5",
     "weapp-ide-cli": "^2.0.10",
+    "weapp-tailwindcss": "^4.0.5",
     "webpack": "5.91.0"
   }
 }

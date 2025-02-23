@@ -8,7 +8,7 @@ export default function Index () {
   })
 
   return (
-    <View className='index'>
+    <View className='bg-[#534312]'>
       <Text>Hello world!</Text>
     </View>
   )
