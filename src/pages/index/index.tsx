@@ -13,6 +13,7 @@ export default function Index() {
         <Text>Hello world!</Text>
       </View>
       <View className='text-[#16b6c4] text-[34.32rpx] text-center mt-[124.432rpx]'>欢迎使用 weapp-tailwindcss 模板</View>
+      <View className='i-mdi-home'></View>
     </View>
 
   )
