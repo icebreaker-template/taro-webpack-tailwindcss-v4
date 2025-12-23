@@ -67,6 +67,9 @@
   "devDependencies": {
     "@babel/core": "^7.28.5",
     "@babel/preset-react": "^7.28.5",
+    "@egoist/tailwindcss-icons": "^1.9.0",
+    "@iconify-json/lucide": "^1.2.82",
+    "@iconify-json/mdi": "^1.2.3",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.6.2",
     "@tailwindcss/postcss": "^4.1.18",
     "@tarojs/cli": "4.1.9",

@@ -26,6 +26,7 @@ export default function Index() {
 
   return (
     <View className='min-h-screen bg-slate-950 px-[48rpx] pb-[96rpx] pt-[64rpx] text-slate-100'>
+      <View className="i-mdi-home"></View>
       <HeroSection quickActions={quickActions} />
       <HighlightsSection highlights={highlights} />
       <WorkflowSection steps={workflow} />
